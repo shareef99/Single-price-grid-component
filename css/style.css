@@ -1,0 +1,45 @@
+/* first section */
+.top-section
+{
+    padding: 50px;
+}
+h1
+{
+    color: hsl(179, 62%, 43%);
+}
+.top-h3
+{
+    color: hsl(71, 73%, 54%);
+    padding: 30px 0 20px;
+}
+.top-para
+{
+    color: hsl(218, 22%, 67%);
+}
+/* second section */
+.shareef
+{
+    background-color: hsl(179, 62%, 43%);
+    padding: 50px;
+}
+p
+{
+    color: #fff;
+}
+.shareef2
+{
+    padding: 50px;
+    background-color: hsl(179, 64%, 48%);
+}
+.shareef-h2, .shareef-para
+{
+    display: inline-block;
+}
+/* footer section */
+footer{
+    text-align: center;
+}
+h4
+{
+    margin: 30px auto;
+}
